@@ -10,7 +10,7 @@ print(icon_search('python', 'small'))
 ```
 
 #### Natija
-```
+```console
 {'stats': True, 'results': [
     'https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/python-128.png',
     'https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/python-128.png',
